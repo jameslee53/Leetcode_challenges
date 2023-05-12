@@ -19,7 +19,7 @@ Constraints:
 0 <= arr[i] <= 1000
 
 
-Solution:
+/*Solution:
 
 Array.prototype.last = function() {
     if (this.length > 0) {
@@ -36,3 +36,4 @@ console.log(nums.last()); // Output: 3
 
 nums = [];
 console.log(nums.last()); // Output: -1
+*/
